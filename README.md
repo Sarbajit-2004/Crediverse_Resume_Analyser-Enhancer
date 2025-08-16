@@ -33,7 +33,7 @@ An AI-powered resume analysis tool that helps job seekers and students improve t
 ⚙️ Installation
 
 1. Clone the repository:
-•	git clone https://github.com/Sarbajit-2004/Crediverse_Resume_Analyzer-Enhancer.git
+•	git clone [https://github.com/Sarbajit-2004/Crediverse_Resume_Analyzer-Enhancer.git](https://github.com/Sarbajit-2004/Crediverse_Resume_Analyser-Enhancer)
 cd Crediverse-Resume-Analyzer
 
 2. Create a virtual environment & activate it:
