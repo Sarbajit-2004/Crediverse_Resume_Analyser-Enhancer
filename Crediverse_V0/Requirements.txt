@@ -1,0 +1,10 @@
+streamlit==1.37.1
+pandas==2.2.2
+pymysql==1.1.1
+pypdf==4.3.1
+python-docx==1.1.2
+plotly==5.23.0
+streamlit-tags==1.2.8
+# OPTIONAL (only if you later enable spaCy-based extraction in App.py):
+# spacy==3.7.4
+# After install: python -m spacy download en_core_web_sm
