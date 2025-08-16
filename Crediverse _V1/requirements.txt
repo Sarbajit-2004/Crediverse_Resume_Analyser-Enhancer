@@ -1,0 +1,16 @@
+# --- UI & core ---
+streamlit==1.37.1
+pandas==2.2.2
+Pillow==10.4.0
+
+# --- Parsing ---
+pypdf==4.3.1
+python-docx==1.1.2
+
+# --- Charts & tags ---
+plotly==5.23.0
+streamlit-tags==1.2.8
+
+# --- Lightweight AI (Windows-friendly) ---
+rapidfuzz==3.9.6
+nltk==3.9.1
