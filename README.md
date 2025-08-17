@@ -1,4 +1,4 @@
-Crediverse Resume Analyzer 
+Crediverse Resume Analyzer(V0)
 
 [Python Badge] [Streamlit Badge] [MySQL Badge] [NLP Badge] [License Badge]
 
