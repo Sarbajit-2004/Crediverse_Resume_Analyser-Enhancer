@@ -1,0 +1,44 @@
+{
+  "Web Development": [
+    "html", "css", "javascript", "typescript",
+    "react", "nextjs", "vue", "angular",
+    "node", "express", "django", "flask", "fastapi",
+    "tailwind", "bootstrap",
+    "postgres", "mysql", "mongodb",
+    "docker", "git", "ci/cd"
+  ],
+  "Data Science": [
+    "python", "pandas", "numpy", "matplotlib", "seaborn",
+    "scikit-learn", "sklearn", "xgboost", "lightgbm",
+    "statistics", "eda", "sql"
+  ],
+  "AI/ML": [
+    "tensorflow", "pytorch", "transformers", "nlp",
+    "computer vision", "opencv", "huggingface", "llm", "rnn", "cnn"
+  ],
+  "Cloud/DevOps": [
+    "aws", "gcp", "azure", "terraform", "kubernetes", "docker",
+    "jenkins", "ansible", "linux", "bash", "ci/cd"
+  ],
+  "Mobile": [
+    "android", "kotlin", "java", "flutter", "dart", "swift", "xcode"
+  ],
+  "UI/UX": [
+    "figma", "adobe xd", "wireframing", "prototyping",
+    "user research", "usability testing"
+  ],
+
+  "Cybersecurity": [
+    "network security", "penetration testing", "vulnerability assessment",
+    "encryption", "firewalls", "incident response"
+  ],
+  "Game Development": [
+    "unity", "unreal engine", "c#", "c++", "game design"
+  ],
+  "Blockchain": [
+    "solidity", "ethereum", "smart contracts", "web3", "cryptography"
+  ],
+  "IoT": [
+    "arduino", "raspberry pi", "mqtt", "embedded systems"
+  ]
+}
