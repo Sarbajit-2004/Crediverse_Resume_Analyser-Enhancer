@@ -1,44 +1,81 @@
 {
   "Web Development": [
-    "html", "css", "javascript", "typescript",
-    "react", "nextjs", "vue", "angular",
-    "node", "express", "django", "flask", "fastapi",
-    "tailwind", "bootstrap",
-    "postgres", "mysql", "mongodb",
-    "docker", "git", "ci/cd"
+    "html5", "css3", "sass", "less", "javascript", "typescript",
+    "react", "next.js", "vue.js", "nuxt.js", "angular", "svelte",
+    "node.js", "express.js", "django", "flask", "fastapi", "php", "laravel",
+    "webpack", "vite", "babel", "eslint",
+    "tailwind css", "bootstrap", "material ui", "chakra ui",
+    "mongodb", "mysql", "postgresql", "sqlite", "redis",
+    "graphql", "rest api", "jwt", "oauth2", "passport.js",
+    "docker", "docker-compose", "nginx", "apache",
+    "git", "github", "gitlab", "bitbucket",
+    "ci/cd", "github actions", "travis ci", "circle ci", "netlify", "vercel"
   ],
   "Data Science": [
-    "python", "pandas", "numpy", "matplotlib", "seaborn",
-    "scikit-learn", "sklearn", "xgboost", "lightgbm",
-    "statistics", "eda", "sql"
+    "python", "r", "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "bokeh",
+    "scikit-learn", "xgboost", "lightgbm", "catboost",
+    "statsmodels", "mlxtend", "feature engineering", "data cleaning", "data wrangling",
+    "sql", "sqlite", "mysql", "bigquery", "redshift",
+    "eda", "hypothesis testing", "regression", "classification", "clustering", "time series", "anomaly detection",
+    "jupyter notebooks", "google colab", "kaggle"
   ],
   "AI/ML": [
-    "tensorflow", "pytorch", "transformers", "nlp",
-    "computer vision", "opencv", "huggingface", "llm", "rnn", "cnn"
+    "tensorflow", "keras", "pytorch", "sklearn", "mxnet",
+    "huggingface transformers", "llm", "langchain", "autogen", "haystack",
+    "openai api", "groq", "bloom", "llama", "gpt", "bert", "roberta",
+    "cnn", "rnn", "gan", "vae", "resnet", "yolo", "unet",
+    "nlp", "spacy", "nltk", "textblob", "tf-idf", "word2vec", "glove", "transformer",
+    "computer vision", "opencv", "dlib", "image classification", "object detection",
+    "recommender systems", "reinforcement learning", "deep q-learning"
   ],
   "Cloud/DevOps": [
-    "aws", "gcp", "azure", "terraform", "kubernetes", "docker",
-    "jenkins", "ansible", "linux", "bash", "ci/cd"
+    "aws", "s3", "ec2", "lambda", "rds", "cloudwatch", "route53", "eks", "ecr",
+    "azure", "azure devops", "gcp", "cloud functions", "firebase",
+    "docker", "kubernetes", "helm", "terraform", "ansible", "puppet", "chef",
+    "jenkins", "github actions", "circle ci", "travis ci", "gitlab ci",
+    "linux", "bash", "shell scripting", "monitoring", "grafana", "prometheus",
+    "nginx", "apache", "load balancing", "reverse proxy"
   ],
-  "Mobile": [
-    "android", "kotlin", "java", "flutter", "dart", "swift", "xcode"
+  "Mobile Development": [
+    "android", "kotlin", "java", "android studio",
+    "ios", "swift", "objective-c", "xcode",
+    "flutter", "dart", "react native", "expo",
+    "mobile ui/ux", "firebase", "mobile testing", "app deployment", "apk", "ipa"
   ],
-  "UI/UX": [
-    "figma", "adobe xd", "wireframing", "prototyping",
-    "user research", "usability testing"
+  "UI/UX Design": [
+    "figma", "adobe xd", "sketch", "invision", "framer",
+    "wireframing", "prototyping", "mockups", "responsive design",
+    "accessibility", "a/b testing", "heatmaps", "usability testing",
+    "design thinking", "user research", "user personas", "storyboarding", "affinity mapping"
   ],
-
   "Cybersecurity": [
-    "network security", "penetration testing", "vulnerability assessment",
-    "encryption", "firewalls", "incident response"
+    "network security", "ethical hacking", "penetration testing", "vulnerability assessment",
+    "metasploit", "nmap", "wireshark", "burpsuite",
+    "owasp top 10", "sql injection", "xss", "csrf",
+    "encryption", "hashing", "firewalls", "ids", "ips",
+    "incident response", "forensics", "kali linux", "osint", "threat intelligence",
+    "siem", "splunk", "snort", "cyber risk", "iso 27001"
   ],
   "Game Development": [
-    "unity", "unreal engine", "c#", "c++", "game design"
+    "unity", "unreal engine", "godot", "c#", "c++",
+    "blender", "game physics", "level design", "3d modeling",
+    "game ai", "multiplayer networking", "shader programming", "animation", "rigging"
   ],
-  "Blockchain": [
-    "solidity", "ethereum", "smart contracts", "web3", "cryptography"
+  "Blockchain & Web3": [
+    "solidity", "ethereum", "smart contracts", "web3.js", "ethers.js",
+    "truffle", "hardhat", "ganache", "metamask",
+    "polygon", "solana", "rust", "nft", "ipfs", "chainlink",
+    "cryptography", "defi", "erc-20", "erc-721", "erc-1155"
   ],
-  "IoT": [
-    "arduino", "raspberry pi", "mqtt", "embedded systems"
+  "IoT & Embedded Systems": [
+    "arduino", "raspberry pi", "esp32", "iot protocols", "mqtt", "coap",
+    "embedded c", "micropython", "sensors", "actuators",
+    "real-time systems", "firmware", "iot security", "zigbee", "nbiot", "lora"
+  ],
+  "Other Technical Skills": [
+    "latex", "excel", "powerbi", "tableau",
+    "regex", "apis", "rest", "soap",
+    "web scraping", "selenium", "beautifulsoup", "playwright",
+    "vscode", "pycharm", "postman", "insomnia", "virtualenv", "conda"
   ]
 }
